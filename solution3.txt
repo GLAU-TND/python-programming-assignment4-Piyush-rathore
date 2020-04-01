@@ -1,0 +1,7 @@
+u=input()
+st=eval(input())
+v=set()
+for i in st:
+  if u==k[0:len(u)]:
+    v.add(i)
+print(v)
